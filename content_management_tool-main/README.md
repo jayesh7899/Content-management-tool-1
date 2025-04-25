@@ -2,7 +2,7 @@
 
 FRONT END WEB DEVELOPMENT
 
-Welcome to the GitHub repository for my Full Stack Web Development internship project with Barath Intern. This project is a versatile tool designed to simplify the process of creating and customizing a blog, allowing users to easily add text, images, videos, and other elements.
+Welcome to the GitHub repository for my Full Stack Web Development project. This project is a versatile tool designed to simplify the process of creating and customizing a blog, allowing users to easily add text, images, videos, and other elements.
 
 Key Features:
 Text Editing: Users can add and edit text content.
